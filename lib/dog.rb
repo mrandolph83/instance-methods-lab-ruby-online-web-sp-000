@@ -5,7 +5,7 @@ end
 end
 
 def sit
-  pits "The Dog is sitting"
+  puts "The Dog is sitting"
 end
 
 fido = Dog.new
