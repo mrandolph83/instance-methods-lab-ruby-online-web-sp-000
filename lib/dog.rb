@@ -4,5 +4,10 @@ class Dog
 end
 end
 
+def sit
+  pits "The Dog is sitting"
+end
+
 fido = Dog.new
 fido.bark
+fido.sit
